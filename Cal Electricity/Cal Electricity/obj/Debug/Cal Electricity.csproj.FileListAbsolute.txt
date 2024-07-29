@@ -1,0 +1,22 @@
+C:\Users\ADMIN\source\repos\Cal Electricity\Cal Electricity\obj\Debug\Cal Electricity.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Cal Electricity\Cal Electricity\obj\Debug\Cal_Electricity.Form1.resources
+C:\Users\ADMIN\source\repos\Cal Electricity\Cal Electricity\obj\Debug\Cal_Electricity.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Cal Electricity\Cal Electricity\obj\Debug\Cal Electricity.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Cal Electricity\Cal Electricity\obj\Debug\Cal Electricity.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Cal Electricity\Cal Electricity\bin\Debug\Cal Electricity.exe.config
+C:\Users\ADMIN\source\repos\Cal Electricity\Cal Electricity\bin\Debug\Cal Electricity.exe
+C:\Users\ADMIN\source\repos\Cal Electricity\Cal Electricity\bin\Debug\Cal Electricity.pdb
+C:\Users\ADMIN\source\repos\Cal Electricity\Cal Electricity\obj\Debug\Cal Electricity.exe
+C:\Users\ADMIN\source\repos\Cal Electricity\Cal Electricity\obj\Debug\Cal Electricity.pdb
+F:\Programming\Cal Electricity\Cal Electricity\obj\Debug\Cal Electricity.csproj.AssemblyReference.cache
+F:\Programming\Cal Electricity\Cal Electricity\obj\Debug\Cal_Electricity.Form1.resources
+F:\Programming\Cal Electricity\Cal Electricity\obj\Debug\Cal_Electricity.Properties.Resources.resources
+F:\Programming\Cal Electricity\Cal Electricity\obj\Debug\Cal Electricity.csproj.GenerateResource.cache
+F:\Programming\Cal Electricity\Cal Electricity\obj\Debug\Cal Electricity.csproj.CoreCompileInputs.cache
+F:\Programming\Cal Electricity\Cal Electricity\obj\Debug\Cal Electricity.exe
+F:\Programming\Cal Electricity\Cal Electricity\obj\Debug\Cal Electricity.pdb
+F:\Programming\Cal Electricity\Cal Electricity\bin\Debug\Cal Electricity.exe.config
+F:\Programming\Cal Electricity\Cal Electricity\bin\Debug\Cal Electricity.exe
+F:\Programming\Cal Electricity\Cal Electricity\bin\Debug\Cal Electricity.pdb
+F:\Programming\Cal Electricity\Cal Electricity\obj\Debug\Cal_Electricity.Form2.resources
+F:\Programming\Cal Electricity\Cal Electricity\obj\Debug\Cal_Electricity.Form3.resources
